@@ -1,0 +1,10 @@
+{
+  "name": "my-vue-app",
+  "short_name": "my-vue-app",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4DBA87",
+  "lang": "kr",
+  "scope": "/"
+}
